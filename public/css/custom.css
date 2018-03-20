@@ -1,0 +1,28 @@
+/* Custom CSS */
+
+.form-control {
+  margin-bottom: 10px;
+}
+
+.btn {
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+textarea::-webkit-input-placeholder {
+  color: #000000;
+}
+
+textarea:-moz-placeholder {
+  /* Firefox 18- */
+  color: #000000;
+}
+
+textarea::-moz-placeholder {
+  /* Firefox 19+ */
+  color: #000000;
+}
+
+textarea:-ms-input-placeholder {
+  color: #000000;
+}
